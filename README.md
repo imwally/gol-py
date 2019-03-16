@@ -7,3 +7,5 @@ efficient and concise ways of writing it but it works.
 This simply clears and rewrites to the terminal buffer each time the board is
 updated. It uses the [large black square](https://unicode-table.com/en/2B1B/)
 Unicode character 'U+2B1B' (⬛️) to display a live cell.
+
+![Game of Life demo in terminal](assets/gol.gif)
